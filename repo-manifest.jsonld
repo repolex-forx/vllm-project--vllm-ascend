@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/vllm-project/vllm-ascend/commit/28e9e97ba254b076a88275e8a275556cb9a11664",
       "git:hexsha": "28e9e97ba254b076a88275e8a275556cb9a11664",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/vllm-project/vllm-ascend/commit/4604882a3e2c6abe4f02318861a90b46a8794488",
